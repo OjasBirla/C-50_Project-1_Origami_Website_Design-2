@@ -1,0 +1,19 @@
+body{
+    border: 2px solid black;
+    border-radius: 20px;
+    padding: 15px;
+    background: rgb(255, 244, 140);
+}
+
+.Header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(128, 128, 128);
+}
+
+li{
+    font-size: 20px;
+}
+
+
